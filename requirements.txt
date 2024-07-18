@@ -1,1 +1,6 @@
 streamlit
+pandas
+matplotlib.pyplot
+numpy
+japanize_matplotlib
+plotly.express
